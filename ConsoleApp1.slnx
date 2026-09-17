@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="ConsoleApp2/ConsoleApp2.csproj" />
+  </Folder>
+  <Project Path="6.Function(methods)/6.Function(methods).csproj" Id="a4345add-f292-4975-aa74-736f4ee9e272" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="ee2b0c65-7522-4670-bf5f-db3045f28985" />
+  <Project Path="ConsoleApp2/ConsoleApp2.csproj" Id="a08ac939-26d8-4a37-a56b-71f73f5d999e" />
+  <Project Path="ConsoleApp3/ConsoleApp3.csproj" Id="b3bad76b-eca8-4b72-acf8-fb4c640f1513" />
+  <Project Path="ConsoleApp4/ConsoleApp4.csproj" Id="18bb61ad-43c0-42a7-bbda-6d0322c3f172" />
+  <Project Path="ConsoleApp5/ConsoleApp5.csproj" Id="b31fe6f1-a444-41f0-a08d-9f2581395740" />
+  <Project Path="ConsoleApp6/ConsoleApp6.csproj" Id="c10fbae6-00b7-4b87-a156-44a3728619bc" />
+</Solution>
