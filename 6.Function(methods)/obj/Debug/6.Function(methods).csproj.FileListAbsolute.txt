@@ -1,7 +1,0 @@
-C:\Users\khanh\source\repos\ConsoleApp1\6.Function(methods)\bin\Debug\6.Function(methods).exe.config
-C:\Users\khanh\source\repos\ConsoleApp1\6.Function(methods)\bin\Debug\6.Function(methods).exe
-C:\Users\khanh\source\repos\ConsoleApp1\6.Function(methods)\bin\Debug\6.Function(methods).pdb
-C:\Users\khanh\source\repos\ConsoleApp1\6.Function(methods)\obj\Debug\6.Function(methods).csproj.AssemblyReference.cache
-C:\Users\khanh\source\repos\ConsoleApp1\6.Function(methods)\obj\Debug\6.Function(methods).csproj.CoreCompileInputs.cache
-C:\Users\khanh\source\repos\ConsoleApp1\6.Function(methods)\obj\Debug\6.Function(methods).exe
-C:\Users\khanh\source\repos\ConsoleApp1\6.Function(methods)\obj\Debug\6.Function(methods).pdb
